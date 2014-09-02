@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+h1 {
+	color: hsla(359,88%,52%,1.00);	
+}
+
 img {
 	width: 50%;	
 }
+
