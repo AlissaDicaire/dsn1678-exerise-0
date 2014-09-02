@@ -1,11 +1,30 @@
 @charset "UTF-8";
 /* CSS Document */
 
+main {
+	width: 50%;
+	margin: 0 auto;
+}
+
 h1 {
-	color: hsla(359,88%,52%,1.00);	
+	text-align: center;
 }
 
 img {
-	width: 50%;	
+	width: 100%;	
 }
 
+li {
+	list-style: none;	
+	margin-left: -2em;
+}
+
+blockquote {
+	color:rgba(107,107,107,1.00);	
+}
+
+a {text-decoration: none}
+
+data {
+	padding: 0;	
+}
